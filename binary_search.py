@@ -1,4 +1,4 @@
-# We assume A is sorted
+
 def recursive_binsearch(A,k) :
     A = sorted(A)
     size = len(A)
